@@ -1,0 +1,22 @@
+{
+  "name": "typescript-down-stair-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YUN-CHIEN-LO/typescript-down-stair-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YUN-CHIEN-LO/typescript-down-stair-game/issues"
+  },
+  "homepage": "https://github.com/YUN-CHIEN-LO/typescript-down-stair-game#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
